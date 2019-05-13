@@ -74,6 +74,7 @@
         </div>
         <div>
             <h3>Random heading</h3>
+            <p>orem ipsum dolor sit amet, consectetur adipiscing elit. Mauris elementum suscipit nisl in porta. Quisque porttitor lobortis justo, ut tincidunt turpis semper sed. Donec sapien odio, consectetur quis molestie in, rutrum et elit. Nunc varius lorem nec nunc ullamcorper, in consequat dui tincidunt. Mauris sagittis leo vel efficitur semper. Integer non orci facilisis odio suscipit pellentesque. Nam nibh massa, rhoncus ut metus tincidunt, gravida blandit leo. Aliquam ullamcorper sodales sollicitudin.</p>
         </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
