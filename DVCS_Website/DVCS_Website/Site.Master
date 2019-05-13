@@ -73,7 +73,7 @@
             </div>
         </div>
         <div>
-
+            <h3>Random heading</h3>
         </div>
         <div class="container body-content">
             <asp:ContentPlaceHolder ID="MainContent" runat="server">
